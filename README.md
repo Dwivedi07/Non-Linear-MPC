@@ -1,2 +1,2 @@
 
-This has ROS integrated python and cpp files of non-linear dynamic and pure pursuit model based controller for autonomous vehicles. 
+This can be integrated with other pipeline nodes to control and navigate our autonomous vehicles. 
